@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋👋👋👋👋
+### The eye of horus is avilible on dockerhub. 👀
+### [Let's get it.](https://github.com/CHLin13/The-Eye-of-Horus) 🔥
 
 <!--
 **CHLin13/CHLin13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
