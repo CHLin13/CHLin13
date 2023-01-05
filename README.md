@@ -1,5 +1,5 @@
 ### Hi there 👋👋👋👋👋
-### The eye of horus is avilible on dockerhub. 👀
+### The eye of horus is available on dockerhub. 👀
 ### [Let's get it.](https://github.com/CHLin13/The-Eye-of-Horus) 🔥
 
 <!--
